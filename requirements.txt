@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+textblob
+transformers
+boto3
+PyPDF2
