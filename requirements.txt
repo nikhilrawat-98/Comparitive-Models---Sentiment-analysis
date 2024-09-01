@@ -4,3 +4,4 @@ textblob
 transformers
 boto3
 PyPDF2
+torch
